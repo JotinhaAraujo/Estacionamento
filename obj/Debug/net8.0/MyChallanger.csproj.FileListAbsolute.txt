@@ -1,0 +1,14 @@
+C:\Projetos\MyChallanger\bin\Debug\net8.0\MyChallanger.exe
+C:\Projetos\MyChallanger\bin\Debug\net8.0\MyChallanger.deps.json
+C:\Projetos\MyChallanger\bin\Debug\net8.0\MyChallanger.runtimeconfig.json
+C:\Projetos\MyChallanger\bin\Debug\net8.0\MyChallanger.dll
+C:\Projetos\MyChallanger\bin\Debug\net8.0\MyChallanger.pdb
+C:\Projetos\MyChallanger\obj\Debug\net8.0\MyChallanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\MyChallanger\obj\Debug\net8.0\MyChallanger.AssemblyInfoInputs.cache
+C:\Projetos\MyChallanger\obj\Debug\net8.0\MyChallanger.AssemblyInfo.cs
+C:\Projetos\MyChallanger\obj\Debug\net8.0\MyChallanger.csproj.CoreCompileInputs.cache
+C:\Projetos\MyChallanger\obj\Debug\net8.0\MyChallanger.dll
+C:\Projetos\MyChallanger\obj\Debug\net8.0\refint\MyChallanger.dll
+C:\Projetos\MyChallanger\obj\Debug\net8.0\MyChallanger.pdb
+C:\Projetos\MyChallanger\obj\Debug\net8.0\MyChallanger.genruntimeconfig.cache
+C:\Projetos\MyChallanger\obj\Debug\net8.0\ref\MyChallanger.dll
